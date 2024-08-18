@@ -1,11 +1,12 @@
 [package]
 name = "sqlx_macro_ex"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 license = "MIT"
 authors = ["yxy"]
 categories = ["database"]
-description = "Macros replacing sqlx-macros without compiling time"
+description = "Macros replace sqlx-macros without compiling time"
+repository = "https://github.com/dryBranch/sqlx_macro_ex"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
